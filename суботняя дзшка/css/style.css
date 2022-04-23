@@ -1,0 +1,43 @@
+.tabel ,th , td ,tr {
+    border: 1px solid black;
+
+
+}
+.rl-1{ background-color: aqua;
+color: black;
+}
+.rl-2{ background-color: aqua;
+color: black;
+}
+.rl-3{background-color: aqua;
+    color: black;
+}
+.rl-4{background-color: aqua;
+color: black;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.bt{
+    color: black;
+    left: 500px;
+
+}
+.er{color: rgb(255, 17, 17);}
+.tu{
+    color: rgb(255, 166, 0);
+}
+.wo{
+    color: rgb(0, 255, 0);
+}
+.box{
+
+    width: 5px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: relative;
+    left: 60px;
+    top:10px ;
+}
+/*top вниз,bottom верх,left право,right лево
